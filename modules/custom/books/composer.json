@@ -1,0 +1,14 @@
+{
+  "name": "drupal/books",
+  "type": "drupal-module",
+  "description": "My Books Module",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/books",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/books",
+    "source": "http://cgit.drupalcode.org/books"
+  },
+  "require": { }
+}

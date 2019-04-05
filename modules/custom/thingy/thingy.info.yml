@@ -1,0 +1,5 @@
+name: 'Thingy'
+type: module
+description: 'Thingy Entity Example'
+core: 8.x
+package: 'Custom'

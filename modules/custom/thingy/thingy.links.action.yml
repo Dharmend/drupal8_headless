@@ -1,0 +1,11 @@
+entity.thingy.add_form:
+  route_name: entity.thingy.add_page
+  title: 'Add Thingy'
+  appears_on:
+    - entity.thingy.collection
+entity.thingy_type.add_form:
+  route_name: entity.thingy_type.add_form
+  title: 'Add Thingy type'
+  appears_on:
+    - entity.thingy_type.collection
+

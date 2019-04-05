@@ -1,0 +1,18 @@
+
+# Thingy menu items definition
+entity.thingy.collection:
+  title: 'Thingy list'
+  route_name: entity.thingy.collection
+  description: 'List Thingy entities'
+  parent: system.admin_structure
+  weight: 100
+
+
+# Thingy type menu items definition
+entity.thingy_type.collection:
+  title: 'Thingy type'
+  route_name: entity.thingy_type.collection
+  description: 'List Thingy type (bundles)'
+  parent: system.admin_structure
+  weight: 99
+

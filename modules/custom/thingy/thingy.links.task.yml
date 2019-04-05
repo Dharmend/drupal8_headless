@@ -1,0 +1,23 @@
+# Thingy routing definition
+
+entity.thingy.canonical:
+  route_name: entity.thingy.canonical
+  base_route: entity.thingy.canonical
+  title: 'View'
+
+entity.thingy.edit_form:
+  route_name: entity.thingy.edit_form
+  base_route: entity.thingy.canonical
+  title: 'Edit'
+
+entity.thingy.version_history:
+  route_name: entity.thingy.version_history
+  base_route: entity.thingy.canonical
+  title: 'Revisions'
+
+entity.thingy.delete_form:
+  route_name:  entity.thingy.delete_form
+  base_route:  entity.thingy.canonical
+  title: Delete
+  weight: 10
+
